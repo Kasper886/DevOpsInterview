@@ -1,6 +1,6 @@
 #CICD
 <details>
-  <summary>1. Чем отличается Continuous Integration от Continuous Delivery от Continuous Deployment?<summary>
+  <summary>1. Чем отличается Continuous Integration от Continuous Delivery от Continuous Deployment?</summary>
   Continuous Integration (непрерывная интеграция) - практика интеграции изменений кода из ветки разработки в основную ветку путём 
   инструментов для интеграции.
   Continuous Delivery (непрерывная доставка) - практика содержания кода в репозитории в состоянии пригодным для разворачивания на 
